@@ -81,7 +81,7 @@ footer{
   overflow: hidden;
 }
 .tapel{
-  background: linear-gradient(180deg, #E59866 0%, #383837 70%, #171716 30%);
+  background: linear-gradient(180deg, #E59866 0%, #383837 65%, #171716 35%);
   background-repeat: no-repeat;
   height: auto;
 }
